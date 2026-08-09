@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/Lizardeon/LongStoryShort_extensions/refs/heads/main/WeightTracker.png)
+
 Отслеживание веса во вкладке Снаряжение (и он отслеживает только конкретные моменты в текстовом поле "Снаряжение", типа `X фнт × Y шт`, `X фнт`, `X фнт x Y`).
 
 Изменить всё, что будет писаться и как отображаться можно в `getEncumbranceState` (можно через нейронку делать, если лень разбираться).
